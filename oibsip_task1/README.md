@@ -1,7 +1,7 @@
 # Cyber Landing Page
 
-![Project Image](/landingLight.png)
-![Project Image](/landingDark.png)
+![Project Image](/oibsip_task1/landingLight.png)
+![Project Image](/oibsip_task1/landingDark.png)
 
 > A super simple responsive landing page built with Next.js and Tailwind CSS, featuring light and dark mode options. This project was completed as part of Level 1 Task 1 for the internship at OASIS INFOBYTE.
 
